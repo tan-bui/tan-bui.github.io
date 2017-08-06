@@ -1,0 +1,13 @@
+{
+  "src/my-profile-app.html": {
+    "src/my-profile-navigator.html": {
+      "type": "document",
+      "weight": 1
+    }
+  },
+  "src/my-profile-navigator.html": {},
+  "src/my-profile-home.html": {},
+  "src/my-profile-login.html": {},
+  "src/my-profile-register.html": {},
+  "src/my-profile-404.html": {}
+}
